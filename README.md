@@ -18,3 +18,6 @@ function PrivateRoute({ children, ...rest }) {
     />
   );
 }
+
+  
+  live site link: https://private-route-using.netlify.app/
